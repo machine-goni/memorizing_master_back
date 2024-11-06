@@ -1,0 +1,4 @@
+__pycache__/
+.env
+git_command_after_install.txt
+requirements_total.txt
