@@ -33,8 +33,8 @@ app = FastAPI()
 
 # 허용할 도메인 리스트
 origins = [
-    "*",
-    #"https://legal-with-ai.pages.dev",
+    #"*",
+    "https://memorizing-ai.pages.dev",
 ]
 
 app.add_middleware(
